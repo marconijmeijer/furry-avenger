@@ -1,0 +1,2 @@
+# furry-avenger
+template A
