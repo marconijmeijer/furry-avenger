@@ -1,2 +1,2 @@
 # furry-avenger
-template A
+Simple TODO app
